@@ -9,3 +9,4 @@ Pour l'installé :
 -Mettez dans votre server.cfg "ensure esx_ambulancejob" (Si vous etes sur un hébergeur)
 -Mettez dans votre server.cfg "start esx_ambulancejob" (Si vous etes en localhost)
 
+Je vous souhaite une bonne journée 
